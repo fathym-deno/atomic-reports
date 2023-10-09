@@ -7,4 +7,4 @@ export {
   Chart,
   type ChartType,
 } from "https://deno.land/x/fresh_charts@0.3.1/island.tsx";
-export { ChartOptions } from "https://deno.land/x/fresh_charts@0.3.1/core.tsx";
+export { type ChartOptions } from "https://deno.land/x/fresh_charts@0.3.1/core.ts";
