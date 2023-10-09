@@ -1,4 +1,4 @@
-import { Chart, ChartOptions, ChartType } from "../src.deps.ts";
+import { Chart, ChartOptions, ChartType } from "../../src.deps.ts";
 
 export type FathymChartProps<
   TType extends ChartType = ChartType,
